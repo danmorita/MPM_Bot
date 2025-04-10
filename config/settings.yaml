@@ -1,0 +1,6 @@
+ativo: "WIN$N"
+timeframe: "M5"
+periodo_movel_curto: 9
+periodo_movel_longo: 21
+alvo_pts: 200
+stop_pts: 100
