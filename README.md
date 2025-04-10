@@ -18,4 +18,4 @@ python main.py
 Edite `config/settings.yaml` com seus parâmetros.
 
 ## 📬 Contato
-Feito por [Seu Nome] - GitHub: [Seu Usuário]
+Feito por MDM - GitHub: d
